@@ -28,3 +28,8 @@ if (name == "湊"){
 
 - 3-4 
   - else後に{}を追加する。
+
+## 04
+- 4-3
+  - 5行目：NullPointerException
+  - 6行目：ArrayIndexOutOfBoundsException
