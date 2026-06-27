@@ -33,3 +33,10 @@ if (name == "湊"){
 - 4-3
   - 5行目：NullPointerException
   - 6行目：ArrayIndexOutOfBoundsException
+
+
+## 06
+- 6-3 クラスパスがc:\work\ex64の時、どう変更すればよいか
+  - 現在のchapter06/practice01/...の構成をc:\work\ex64\practice01という感じにして、パッケージの根をex64配下とする事で実現できる。
+- 6-4
+  - パッケージが同じになっているんだとしたら、commentになっている。
