@@ -83,3 +83,12 @@ if (name == "湊"){
   - heal(baseHp)は、baseHpの中身の値(25)を渡しており、baseHpそのものの変化は無いから。
   - heal(t)ではThief型の参照を渡しており、healメソッド内で、
   渡された参照先のオブジェクトのhpフィールドの値を変更しているから。
+
+## 10
+- 10-1
+  - ２，３，５
+- 10-2
+  - iphone -> Phone -> Electronic Device
+  - Fit -> Car -> vehicle
+  - 広辞苑 -> Dictionary -> Book
+- 
