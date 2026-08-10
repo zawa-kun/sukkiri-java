@@ -91,4 +91,8 @@ if (name == "湊"){
   - iphone -> Phone -> Electronic Device
   - Fit -> Car -> vehicle
   - 広辞苑 -> Dictionary -> Book
+
+## 11
+- 11-2
+  - ア：Asset　イ：Intangible　ウ：Patent
 - 
