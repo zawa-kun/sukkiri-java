@@ -1,4 +1,4 @@
-## 02
+  ## 02
 - 2-2
   - 1, 2, 4, 5
   - 正答：2,4,5,7
@@ -95,4 +95,24 @@ if (name == "湊"){
 ## 11
 - 11-2
   - ア：Asset　イ：Intangible　ウ：Patent
-- 
+
+
+## 12
+- 12-1
+  - (1)
+    - Sword
+    - Item
+    - Sword
+    - Item
+  - (2)
+    - Monster
+    - Slime
+    - Slime
+    - Monster
+- 12-2
+  - 1
+    - a()
+  - 2
+    - AaBa
+- 12-3
+  - Y[]型
